@@ -10,3 +10,4 @@ Ardently involved in creating data model , implementing data transformation and 
 
 pbix link: https://drive.google.com/file/d/1LpMu4SwODT343NxGRTAQjSryaNVymdoV/view?usp=sharing
 pdf link: https://drive.google.com/file/d/1h3qI7uzvfIg2CkH4r4eLQvCYubEcTrlw/view?usp=sharing
+canva link: https://drive.google.com/file/d/1dy9r4ANIHHNwa3J1ijT8nPWlX22DzH0p/view?usp=sharing
